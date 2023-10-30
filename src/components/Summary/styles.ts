@@ -3,7 +3,7 @@ import styled, { css } from "styled-components";
 
 export const SummaryContainer = styled.section`
     width: 100%;
-    max-width: 900px;
+    max-width: 1120px;
     margin: 0 auto;
     padding: 1 1.5rem;
 
