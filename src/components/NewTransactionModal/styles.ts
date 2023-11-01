@@ -112,7 +112,7 @@ export const TransactionTypeButton = styled(RadioGroup.Item)<TransactionButtonPr
         color: ${props => props.variant === 'income' ? props.theme['green-300']: props.theme['red-300']};
     }
 
-    &[data-state='unchecked']: hover{
+    &[data-state='unchecked']:hover{
         background: ${props =>props.theme['gray-600']}
 
     }
@@ -127,4 +127,4 @@ export const TransactionTypeButton = styled(RadioGroup.Item)<TransactionButtonPr
         }
     }
 
-`
+` 
