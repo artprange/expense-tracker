@@ -4,7 +4,7 @@
         "id": 1,
         "description": "Desenvolvimento de site",
         "type": "income",
-        "category": "venda",
+        "category": "Venda",
         "price": 14000,
         "createdAt": "2023-11-01T17:54:29.543Z"
         },
@@ -12,7 +12,7 @@
             "id": 2,
             "description": "Hambuger",
             "type": "expense",
-            "category": "alimentação",
+            "category": "Alimentação",
             "price": 50,
             "createdAt": "2023-11-01T18:06:38.982Z"
             }
