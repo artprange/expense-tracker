@@ -40,6 +40,8 @@ export function TransactionsProvider({ children }: TransactionsProviderProps){
     },[])
     /*o use effect não pode ser assincrono! precisa colocar a função fora*/
 
+    
+
 
     return(
         <TransactionsContext.Provider value ={{ transactions }}>
